@@ -238,6 +238,7 @@ nav .nav-links.showMob ul {
 .skills {
   background-color: #fff;
   padding-top: 15px;
+  overflow: hidden;
 }
 .skills-section {
   display: flex;
