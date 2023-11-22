@@ -92,10 +92,10 @@ function Skills() {
                 <span>
                   <FaReact /> React.Js
                 </span>
-                <span className="percent">60%</span>
+                <span className="percent">75%</span>
               </h3>
               <div className="progress">
-                <span style={{ width: "60%" }}></span>
+                <span style={{ width: "75%" }}></span>
               </div>
             </div>
             <div className="prog">
@@ -103,10 +103,10 @@ function Skills() {
                 <span>
                   <FaBootstrap /> Bootstrap
                 </span>
-                <span className="percent">70%</span>
+                <span className="percent">85%</span>
               </h3>
               <div className="progress">
-                <span style={{ width: "70%" }}></span>
+                <span style={{ width: "85%" }}></span>
               </div>
             </div>
           </div>
