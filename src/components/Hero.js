@@ -18,7 +18,7 @@ function Hero() {
             </p>
             <a
               className="main-btn"
-              href="https://drive.google.com/u/0/uc?id=1SvmPZPgzmyEmhJd_JcxHH1-ObeQL_tKK&export=download"
+              href="https://drive.google.com/file/d/1bNQeq8FPyrisxtL0E1mQv57J5vTLHAsx/view?usp=sharing"
             >
               Download CV
               <HiDocumentDownload />
